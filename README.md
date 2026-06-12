@@ -86,6 +86,6 @@ Responsive developer portfolio showcasing projects, skills, and achievements.
 
 * LinkedIn: Add Your LinkedIn URL
 * Portfolio: Add Your Portfolio URL
-* Email: [your-email@example.com](mailto:your-email@example.com)
+* Email: yashrajveersingh936@gmail.com
 
 ⭐ Always open to collaboration, internships, and exciting development opportunities.
