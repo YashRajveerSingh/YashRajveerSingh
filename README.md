@@ -1,10 +1,10 @@
 # Hi 👋, I'm Yash Rajveer Singh
 
-### Java Backend Developer | Full Stack Developer | Future SDE
+### 🚀 Java Backend Developer | Full Stack Developer | Aspiring Software Engineer
 
-🚀 Pre-Final Year B.Tech IT Student
+🎓 Pre-Final Year B.Tech Information Technology Student
 
-I build scalable backend systems, modern web applications, and business software solutions using Java, Spring Boot, React, Firebase, and modern development practices.
+I am passionate about building scalable backend systems, full-stack web applications, and business software solutions. I enjoy solving complex problems, designing robust architectures, and continuously learning modern technologies.
 
 ---
 
@@ -12,34 +12,45 @@ I build scalable backend systems, modern web applications, and business software
 
 * 🎓 B.Tech Information Technology Student
 * 💻 Java Backend Developer
-* ⚛️ React & Firebase Developer
-* 🌱 Currently learning ERPNext & System Design
-* 📚 Strong interest in DSA, Backend Engineering & Software Architecture
-* 🎯 Targeting SDE Internships and 10+ LPA Opportunities
+* ⚛️ Full Stack Web Developer
+* 🌱 Currently exploring ERPNext & Enterprise Software Development
+* 📚 Strong foundation in DSA, Backend Engineering, and System Design
+* 🎯 Preparing for SDE Internships & Product-Based Company Placements
+* 🚀 Interested in scalable systems and software architecture
 
 ---
 
-## 🛠 Tech Stack
+## 🛠️ Tech Stack
 
 ### Languages
 
 Java • JavaScript • SQL • HTML • CSS
 
-### Backend
+### Backend Development
 
-Spring Boot • Node.js • REST APIs • JWT Authentication
+Spring Boot • Node.js • Express.js • REST APIs • JWT Authentication
 
-### Frontend
+### Frontend Development
 
 React.js • Vite • Tailwind CSS
 
-### Database
+### Databases
 
 MySQL • MongoDB • Firebase Firestore
 
-### Tools
+### Computer Science Fundamentals
 
-Git • GitHub • Postman • VS Code
+Object-Oriented Programming (OOP)
+Database Management Systems (DBMS)
+Computer Networks (CN)
+Operating Systems (OS)
+System Design
+High-Level Design (HLD)
+Low-Level Design (LLD)
+
+### Tools & Platforms
+
+Git • GitHub • Postman • VS Code • Firebase • Vercel
 
 ---
 
@@ -47,7 +58,7 @@ Git • GitHub • Postman • VS Code
 
 ### POS Billing System
 
-Role-based billing and inventory management software built with React, Node.js, Express, MongoDB, and JWT Authentication.
+Role-based billing and inventory management software built using React, Node.js, Express, MongoDB, and JWT Authentication.
 
 ### AI Writing Assistant
 
@@ -55,15 +66,15 @@ AI-powered content generation platform using React, Firebase Authentication, Fir
 
 ### CRM System
 
-Customer relationship management platform for lead tracking and sales management.
+Customer relationship management platform for lead tracking, customer management, and sales operations.
 
 ### Portfolio Website
 
-Responsive developer portfolio showcasing projects, skills, and achievements.
+Personal portfolio showcasing projects, skills, achievements, and technical expertise.
 
 ---
 
-## 📈 GitHub Stats
+## 📈 GitHub Statistics
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YashRajveerSingh\&show_icons=true\&theme=tokyonight)
 
@@ -73,19 +84,27 @@ Responsive developer portfolio showcasing projects, skills, and achievements.
 
 ---
 
-## 🎯 Current Goals
+## 🎯 Current Learning Goals
 
-* Master Spring Boot
+* Master Spring Boot & Microservices
 * Learn ERPNext Development
 * Build Production-Grade SaaS Applications
+* Improve System Design Skills
+* Strengthen Data Structures & Algorithms
 * Crack Top Product-Based Company Interviews
+
+---
+
+## 🌐 Portfolio
+
+Portfolio Website: https://my-portfolio-delta-ten-37.vercel.app/
 
 ---
 
 ## 📫 Connect With Me
 
-* LinkedIn: Add Your LinkedIn URL
-* Portfolio: Add Your Portfolio URL
-* Email: yashrajveersingh936@gmail.com
+📧 Email: [yashrajveersingh936@gmail.com](mailto:yashrajveersingh936@gmail.com)
 
-⭐ Always open to collaboration, internships, and exciting development opportunities.
+---
+
+⭐ Always open to internships, collaborations, open-source contributions, and exciting software engineering opportunities.
