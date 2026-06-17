@@ -11,10 +11,10 @@ I am passionate about building scalable backend systems, full-stack web applicat
 ## 💫 About Me
 
 * 🎓 B.Tech Information Technology Student
-* 💻 Java Backend Developer
+* 💻 Java  Developer
 * ⚛️ Full Stack Web Developer
 * 🌱 Currently exploring ERPNext & Enterprise Software Development
-* 📚 Strong foundation in DSA, Backend Engineering, and System Design
+* 📚 Strong foundation in DSA, Devlopment, and System Design
 * 🎯 Preparing for SDE Internships & Product-Based Company Placements
 * 🚀 Interested in scalable systems and software architecture
 
@@ -54,21 +54,48 @@ Git • GitHub • Postman • VS Code • Firebase • Vercel
 
 ---
 
+
 ## 🚀 Featured Projects
 
-### POS Billing System
+### 🤖 RAG-Based Medical Chatbot
 
-Role-based billing and inventory management software built using React, Node.js, Express, MongoDB, and JWT Authentication.
+Built an AI-powered medical question-answering system using Retrieval-Augmented Generation (RAG), LangChain, FAISS, Hugging Face Embeddings, and LLMs. The system retrieves relevant medical information from PDF documents and generates context-aware responses.
 
-### AI Writing Assistant
+**Tech Stack:** Python, LangChain, FAISS, Hugging Face, Streamlit
 
-AI-powered content generation platform using React, Firebase Authentication, Firestore, and OpenAI APIs.
+---
+---
 
-### CRM System
+### 🚗 Car Rental System
 
-Customer relationship management platform for lead tracking, customer management, and sales operations.
+Console-based car rental application developed using Object-Oriented Programming principles. Features include vehicle management, customer registration, rental tracking, and return processing.
 
-### Portfolio Website
+**Tech Stack:** Java, Collections Framework, OOP
+
+---
+
+### 🧾 Invoice Generator & Billing System
+
+Automated invoice creation and billing management platform with customer records, tax calculations, and downloadable invoice generation.
+
+**Tech Stack:** React.js, Node.js, Express.js, MongoDB
+
+---
+
+### 🌱 EcoTrack
+
+Sustainability tracking platform that helps users monitor carbon footprint, energy consumption, and eco-friendly activities through insightful analytics and reporting.
+
+**Tech Stack:** React.js, Node.js, MongoDB, Chart.js
+
+---
+
+### 🌐 Portfolio Website
+
+Personal portfolio website showcasing projects, technical skills, certifications, and achievements with a modern responsive design.
+
+**Tech Stack:** React.js, Tailwind CSS, JavaScript
+
 
 Personal portfolio showcasing projects, skills, achievements, and technical expertise.
 
